@@ -8,4 +8,4 @@
 
 📫 [Ota yhteyttä / Contact](mailto:surma@salamurhaajat.net)
 
-<img src="hys_logo.svg" width="200" height="200" alt="HYSin logo / HUSH logo"> <img src="surma_logo.svg" width="100" height="100" alt = "Surma logo">
+<img src="hys_logo.svg" width="200" height="200" alt="HYSin logo / HUSH logo"> <img src="surma_logo.svg" width="200" height="200" alt = "Surma logo">
