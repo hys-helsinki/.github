@@ -2,7 +2,7 @@
 
 **FI:** hys-helsinki on innokkaiden vapaaehtoisten joukko, joka ylläpitää ja kehittää Helsingin yliopiston salamurhaajien (HYS) turnausjärjestelmää, Surmaa.
 
-**EN**: hys-helsinki is a passionate group of volunteers developing and maintaining the tournament management system Surma (freely translated as "involuntary manslaughter under mitigating conditions") for Helsinki University's Society of Headhunters (HUSH).
+**EN**: hys-helsinki is a passionate group of volunteers developing and maintaining the tournament management system Surma (freely translated as "involuntary manslaughter under mitigating conditions", or for short, Slaughter) for Helsinki University's Society of Human hunters (HUSH).
 
 🌐 [Nettisivut / Website](https://salamurhaajat.net)
 
